@@ -1,0 +1,22 @@
+.sidebar {
+    position: fixed;
+    background-color: rgb(253, 240, 240);
+    left: 0;
+    bottom: 0;
+    top: 100px;
+    width: 280px;
+    z-index: 200;
+}
+.home {
+    display: flex;
+    align-items: center;
+}
+.home img {
+    width: 50px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 18px;
+}
+.home p {
+    margin-left: 10px;
+}
